@@ -1,5 +1,5 @@
 ### Hi there.  
-My name is Hongming Dai. I come from the Department of Computer Science and Engineering, Northeastern University. My research interest mainly focus on Distributed Machine Learning System, Natural Machine Translation and Sentiment Analysis and Recommendation System. 
+I'm Hongming Dai and come from the Department of Computer Science and Engineering, Northeastern University. My research interest mainly focus on Distributed Machine Learning System, Natural Machine Translation, Sentiment Analysis and Recommendation System. 
 
 <!-- If you're using "main" as default branch -->
 
