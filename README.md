@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there.  My name is Hongming Dai. I come from the Department of Computer Science and Engineering, Northeastern University. My research interest mainly focus on Distributed Machine Learning System, Natural Machine Translation and Sentiment Analysis and Recommendation System. 
 ![Hongming Dai's GitHub stats](https://github-readme-stats.vercel.app/api?username=johncruyff14)
 <!--
 **johncruyff14/johncruyff14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
