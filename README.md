@@ -1,6 +1,7 @@
-#                                                   Hi there 👋 I'm Hongming Dai!
+#                                                   Hi there 👋 I'm Ryan Dai!
 
-I'm Hongming Dai  from the Department of Computer Science and Engineering, Northeastern University. My research interest mainly focus on Distributed Machine Learning System, Natural Machine Translation, Sentiment Analysis and Recommendation System. 
+My research interest mainly focus on how to make myself happier.
+
     
 ![Metrics](https://github.com/johncruyff14/johncruyff14/blob/main/github-metrics.svg)
 
