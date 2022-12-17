@@ -6,6 +6,7 @@ Currently, I am the master student in National University of Singapore and the R
 
 I used to work as the Research Assistant at Yale University and backend engineer at Bytedance(Data-International-Recommendation Algorithm).
 
+Please feel free to contact me at hongming[dot]dai[AT]u[dot]nus[dot]edu
     
 ![Metrics](https://github.com/johncruyff14/johncruyff14/blob/main/github-metrics.svg)
 
