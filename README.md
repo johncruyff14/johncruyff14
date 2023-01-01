@@ -2,7 +2,7 @@
 
 My research interest mainly focus on Multi-Modal Learning and Zero-Shot Detection.
 
-Currently, I am the master student in National University of Singapore and the Research Assistant in Peking University.
+Currently, I am a master student in Computer Science Specilization at National University of Singapore and the Research Assistant in Peking University.
 
 I used to work as the Research Assistant at Yale University,Backend Engineer at Bytedance(Data-International-Recommendation Algorithm) and Research Assistant in Peking University.
 
