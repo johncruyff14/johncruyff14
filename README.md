@@ -1,6 +1,6 @@
 #                                                   Hi there 👋 I'm Ryan Dai!
 
-My research interest mainly focus on Multi-Modal Learning and Zero-Shot Detection.
+My research interest mainly focus on Multi-Modal Learning and Perception in Robotics.
 
 Currently, I am a master student in Computer Science Specilization at National University of Singapore and the Research Assistant in Peking University.
 
