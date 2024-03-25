@@ -1,6 +1,6 @@
 #                                                   Hi there 👋 I'm Ryan Dai!
 
-My research interest mainly focus on Multi-Modal Learning and Perception in Robotics.
+My research interest mainly focus on Multi-Modal Learning and Robotics.
 
 Currently, I am a master student in Computer Science Specilization at National University of Singapore supervised by Prof. Harold Soh. 
 
